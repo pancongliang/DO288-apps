@@ -1,3 +1,3 @@
 <?php
-print "hello openshift world! \n";
+print "这周六打台球去! \n";
 ?>
